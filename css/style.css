@@ -7,7 +7,7 @@
     --top-distance: 0vh;
     --sphere-size: 25px;
     --half-star-size: 25px;
-    --star-color-change-time: 9s;
+    --star-color-change-time: 2s;
   }
 
   body {
